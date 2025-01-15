@@ -2,8 +2,8 @@
 
 **`Student, Developer`**
 
-- I'm currently working on ...
-- I'm currently learning ...
+- I'm currently learning Machine Learning, and Networking
+- I'm currently finishing my last semster at Lindenwood University
 
 Hello there! My name is Eric, and I'm a senior at Lindenwood University studying in Computer Science.
 I work as a Lead Intern for Lindenwood's Baseball Data Science Team. During the time at Lindenwood I have 
