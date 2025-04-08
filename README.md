@@ -1,6 +1,6 @@
 # Eric Hansson
 
-**`Student Athlete, Leader Intern, Developer`**
+**`Student Athlete, Lead-Intern, Developer`**
 
 - I'm currently learning Machine Learning and Telcommunication and Computer Networking.
 - I'm currently finishing my last semster at Lindenwood University
