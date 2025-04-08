@@ -2,7 +2,7 @@
 
 **`Student, Developer`**
 
-- I'm currently learning Machine Learning, and Networking
+- I'm currently learning Machine Learning and Telcommunication and Computer Networking.
 - I'm currently finishing my last semster at Lindenwood University
 
 Hello there! My name is Eric, and I'm a senior at Lindenwood University studying in Computer Science.
