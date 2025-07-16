@@ -1,14 +1,13 @@
 # Eric Hansson
 
-**`Student Athlete, Lead-Intern, Developer`**
+**`Graduate Student`**
 
-- I'm currently learning Machine Learning and Telcommunication and Computer Networking.
-- I'm currently finishing my last semster at Lindenwood University
+Hello there! My name is Eric, and I'm a graduate from Lindenwood University in Computer Science.
+I worked as a Lead Intern for Lindenwood's Baseball Data Science Team. During the time at Lindenwood I have 
+been a D1 student athlete in Swimming & Diving. The time as an athlete I learned the importance of
+time managment, language barriers, and teamwork. I am currently looking for a internship or job in the field of Software Engineering.
 
-Hello there! My name is Eric, and I'm a senior at Lindenwood University studying in Computer Science.
-I work as a Lead Intern for Lindenwood's Baseball Data Science Team. During the time at Lindenwood I have 
-been a D1 student athlete in Swimming & Diving. During the time as an athlete I learned the importance of
-time managment, language barriers, and teamwork. Currently I am looking for internship or a job in the field of Software Engineering.
+- I'm currently working a website template using React and Express.js.
 
 ---
 
