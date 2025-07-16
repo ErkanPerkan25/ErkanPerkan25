@@ -7,7 +7,7 @@ I worked as a Lead Intern for Lindenwood's Baseball Data Science Team. During th
 been a D1 student athlete in Swimming & Diving. The time as an athlete I learned the importance of
 time managment, language barriers, and teamwork. I am currently looking for a internship or job in the field of Software Engineering.
 
-- I'm currently working a website template using React and Express.js.
+- I'm currently working on a website template using React and Express.js.
 
 ---
 
