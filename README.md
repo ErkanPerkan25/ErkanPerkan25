@@ -26,9 +26,11 @@
 
 ###
 
-<p align="left">I'm Eric from Sweden<br>
+<p align="left">I'm Eric and I'm currently a freelancer providing services.
+    But I'm in the search of a full-time position as a Software Engineer.<br>
     <br>- 🔭 I recently grauated with a Bachelor of Science in Computer Science
-    <br>- 📚 I'm currently learning about operatning systems
+    <br>- 📚 I'm currently learning about operatning systems and working on a
+    web application.
     <br>- ⚡ In my free time I read literature and philosophy</p>
 
 ###
